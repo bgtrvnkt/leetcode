@@ -1,4 +1,4 @@
-package n26;
+package n26_array_remove_duplications;
 
 import java.util.Arrays;
 
